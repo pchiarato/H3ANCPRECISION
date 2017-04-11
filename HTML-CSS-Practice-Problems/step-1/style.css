@@ -1,0 +1,40 @@
+* {
+    margin:0;
+    padding:0;
+}
+
+body {
+    background-color:darkgray;
+    text-align: center;
+}
+.top {
+    width:100%;
+    height:20vh;
+    background-color:lightgray;
+}
+.left {
+    width:25%;
+    height:60vh;
+    background-color:#999;
+    color:white;
+}
+.bottom {
+    width:100%;
+    height:20vh;
+    background-color:#666;
+    color:white;
+}
+.content-mid {
+    position:absolute;
+    right:460px;
+    top:400px;
+}
+#p-left{
+    padding-top:219;
+}
+#p-header {
+    padding-top:60px;
+}
+#p-footer {
+    padding-top:60px;
+}
